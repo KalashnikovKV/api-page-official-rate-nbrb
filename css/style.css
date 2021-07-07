@@ -1,0 +1,15 @@
+table {
+    width: 80%;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+th {
+    padding: 13px;
+    border: 1px solid grey;
+}
+
+td {
+    padding: 4px 5px;
+    border: 1px solid grey;
+}
